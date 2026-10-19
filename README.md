@@ -1,4 +1,4 @@
-# Σ Episteme — The Deterministic Learning Engine
+# Σ Zentrix — The Deterministic Learning Engine
 
 **Tagline:** *A deterministic AI that diagnoses why students fail — and fixes the root cause.*
 
@@ -6,7 +6,7 @@
 
 ## 🏛️ Project Overview
 
-**Episteme** replaces the uncertainty of "guessing" AI models with a rigorous, clinically-inspired diagnostic engine. While standard LLMs often hallucinate or provide shallow corrections, Episteme uses **Deterministic NLP**, **Fault Tree Analysis (FTA)**, and **Knowledge DAGS** to mathematically identify the cognitive gaps preventing a student from mastering a concept.
+**Zentrix** replaces the uncertainty of "guessing" AI models with a rigorous, clinically-inspired diagnostic engine. While standard LLMs often hallucinate or provide shallow corrections, Zentrix uses **Deterministic NLP**, **Fault Tree Analysis (FTA)**, and **Knowledge DAGS** to mathematically identify the cognitive gaps preventing a student from mastering a concept.
 
 **IntelliRev** is the student-facing platform that makes this engine accessible, transforming raw syllabi into structured, adaptive learning paths with zero hallucinations.
 
